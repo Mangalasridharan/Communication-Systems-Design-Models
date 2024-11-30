@@ -1,6 +1,0 @@
-Generate a message signal m(t)=Am cos f_m(t) , modulate it using a carrier signal c(t)=Ac cos fc t for 
-     a)under modulation
-     b)critical modulation 
-     c)over modulation 
-     d)wav file modulation and demodulation
-
